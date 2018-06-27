@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21678" started-at="2018-06-27T15:47:13Z" finished-at="2018-06-27T15:47:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21678" started-at="2018-06-27T15:47:13Z" finished-at="2018-06-27T15:47:35Z">
+      <class name="com.webelements.webElementsForm">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.webelements.webElementsForm@4883b407]" name="setUpClass" is-config="true" duration-ms="5896" started-at="2018-06-27T15:47:13Z" finished-at="2018-06-27T15:47:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="navigateHomePage()[pri:0, instance:com.webelements.webElementsForm@4883b407]" name="navigateHomePage" is-config="true" duration-ms="2260" started-at="2018-06-27T15:47:19Z" finished-at="2018-06-27T15:47:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateHomePage -->
+        <test-method status="PASS" signature="testInput()[pri:1, instance:com.webelements.webElementsForm@4883b407]" name="testInput" duration-ms="15" started-at="2018-06-27T15:47:21Z" finished-at="2018-06-27T15:47:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInput -->
+        <test-method status="PASS" signature="navigateHomePage()[pri:0, instance:com.webelements.webElementsForm@4883b407]" name="navigateHomePage" is-config="true" duration-ms="513" started-at="2018-06-27T15:47:21Z" finished-at="2018-06-27T15:47:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateHomePage -->
+        <test-method status="PASS" signature="testDropdowns()[pri:2, instance:com.webelements.webElementsForm@4883b407]" name="testDropdowns" duration-ms="0" started-at="2018-06-27T15:47:22Z" finished-at="2018-06-27T15:47:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDropdowns -->
+        <test-method status="PASS" signature="navigateHomePage()[pri:0, instance:com.webelements.webElementsForm@4883b407]" name="navigateHomePage" is-config="true" duration-ms="588" started-at="2018-06-27T15:47:22Z" finished-at="2018-06-27T15:47:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateHomePage -->
+        <test-method status="PASS" signature="testCheckbox()[pri:3, instance:com.webelements.webElementsForm@4883b407]" name="testCheckbox" duration-ms="1" started-at="2018-06-27T15:47:22Z" finished-at="2018-06-27T15:47:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCheckbox -->
+        <test-method status="PASS" signature="navigateHomePage()[pri:0, instance:com.webelements.webElementsForm@4883b407]" name="navigateHomePage" is-config="true" duration-ms="648" started-at="2018-06-27T15:47:22Z" finished-at="2018-06-27T15:47:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateHomePage -->
+        <test-method status="PASS" signature="testRadiobox()[pri:4, instance:com.webelements.webElementsForm@4883b407]" name="testRadiobox" duration-ms="1" started-at="2018-06-27T15:47:23Z" finished-at="2018-06-27T15:47:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRadiobox -->
+        <test-method status="PASS" signature="navigateHomePage()[pri:0, instance:com.webelements.webElementsForm@4883b407]" name="navigateHomePage" is-config="true" duration-ms="493" started-at="2018-06-27T15:47:23Z" finished-at="2018-06-27T15:47:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateHomePage -->
+        <test-method status="PASS" signature="buttons()[pri:5, instance:com.webelements.webElementsForm@4883b407]" name="buttons" duration-ms="2" started-at="2018-06-27T15:47:23Z" finished-at="2018-06-27T15:47:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buttons -->
+        <test-method status="PASS" signature="navigateHomePage()[pri:0, instance:com.webelements.webElementsForm@4883b407]" name="navigateHomePage" is-config="true" duration-ms="391" started-at="2018-06-27T15:47:23Z" finished-at="2018-06-27T15:47:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateHomePage -->
+        <test-method status="PASS" signature="Fill()[pri:6, instance:com.webelements.webElementsForm@4883b407]" name="Fill" duration-ms="10810" started-at="2018-06-27T15:47:24Z" finished-at="2018-06-27T15:47:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Fill -->
+      </class> <!-- com.webelements.webElementsForm -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
